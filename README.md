@@ -33,7 +33,7 @@ Support CobaltStrike's security assessment of other platforms (Linux/MacOS/...),
 
 ## 1. Download
 
-Download **CrossC2.cna** **genCrossC2** **CrossC2Kit** from [release](/gloxec/CrossC2/releases), modify `CrossC2.cna` configuration
+Download `CrossC2.cna` `genCrossC2` `CrossC2Kit` from [release](/gloxec/CrossC2/releases), then modify `CrossC2.cna` configuration
 
 ## 2. Create listener and copy key
 
